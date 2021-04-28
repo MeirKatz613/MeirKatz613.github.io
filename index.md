@@ -20,4 +20,4 @@ Thats it.
 [Email](mailto:meirskatz7@gmail.com)
 [Linkedin](https://www.linkedin.com/in/meir-katz-8004b01a3/)
 
-#### Check out my [Github](https://github.com/MeirKatz613/)
+Check out my [Github](https://github.com/MeirKatz613/)
