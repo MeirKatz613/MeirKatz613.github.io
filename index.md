@@ -1,3 +1,4 @@
+
 # Welcome to my site.
 
 # About me.
@@ -10,10 +11,12 @@ This is one of my first real projects I've made, sure I've done the classic Hell
 
 ### How to download and use
 
-Download the .zip folder containing both the executable and the JRE from my Google drive [here](
-then unzip the folder. Then in the unzipped folder open the file gematriagui.exe. 
-Type the Hebrew word you want the gematria of, then press enter, or the button that says 
-Click for Gematria
+Download the the executable from my Google drive [here](https://drive.google.com/drive/u/1/folders/1Kn399fMcG20t1VqaUCXoWgxgBAnt_f76)
+then put into the same parent folder, of the appropriate JRE to go with it. In the case the JRE is zulu-16-jre, which you can download from [here](https://cdn.azul.com/zulu/bin/zulu16.30.15-ca-jre16.0.1-win_x64.msi)
+After installing the JRE, move both the JRE, and the executable into the same folder. Don't rename the JRE, just leave it as it is, otherwise the program won't work.
+Double click the program to open.
+Type the Hebrew word you want the gematria of, then press enter, or the button that says <br/>
+Click for Gematria <br/>
 Thats it.
 
 ### How to reach me.
