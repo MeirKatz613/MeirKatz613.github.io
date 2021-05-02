@@ -3,7 +3,7 @@
 
 # About me.
 
-I started to really get into programming in my teenage years. I love the satisfaction of getting the code to work. I find there to be a certain addictiveness to programming. This site is a way of sharing my [projects](https://meirkatz613.github.io/projects), etc.
+I started to really get into programming in my teenage years. I love the satisfaction of getting the code to work. I find there to be a certain addictiveness to programming. This site is a way of sharing my [projects](https://meirkatz613.github.io/Projects), etc.
 
 
 ### How to reach me.
