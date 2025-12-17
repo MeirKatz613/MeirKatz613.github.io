@@ -20,3 +20,4 @@ Thats it.
 [Linkedin](https://www.linkedin.com/in/meir-katz-8004b01a3/)
 
 Check out my [Github](https://github.com/MeirKatz613/)
+Check out my [Stackoverflow](https://stackoverflow.com/users/13931492/meir)
